@@ -1,0 +1,708 @@
+Uri: http://unioninvest.me/
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\index.htm
+Content Type: text/html
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/facebook-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\facebook-icon.png
+Content Type: image/png
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/google-plus-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\google-plus-icon.png
+Content Type: image/png
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/twitter-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\twitter-icon.png
+Content Type: image/png
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/linkedin-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\linkedin-icon.png
+Content Type: image/png
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/youtube-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\youtube-icon.png
+Content Type: image/png
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/tumblr-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\tumblr-icon.png
+Content Type: image/png
+
+Uri: http://icons.iconarchive.com/icons/danleech/simple/48/rss-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\icons\danleech\simple\48\rss-icon.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/favicon.ico
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://unioninvest.me/img/apple-touch-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/css/all.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\css\all.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/animate/animate.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\animate\animate.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/simple-line-icons/css/simple-line-icons.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\simple-line-icons\css\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/owl.carousel/assets/owl.carousel.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/owl.carousel/assets/owl.theme.default.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\owl.carousel\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/magnific-popup/magnific-popup.min.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\magnific-popup\magnific-popup.min.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/css/theme.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\theme.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/css/theme-elements.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\theme-elements.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/css/theme-blog.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\theme-blog.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/css/theme-shop.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\theme-shop.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/rs-plugin/css/settings.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\css\settings.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/rs-plugin/css/layers.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\css\layers.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/vendor/rs-plugin/css/navigation.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\css\navigation.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/css/skins/default.css
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\skins\default.css
+Content Type: text/css
+
+Uri: http://unioninvest.me/about-us.asp
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\about-us.asp.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=1
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=4
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-1.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=5
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-2.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=6
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-3.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=7
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-4.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/faq.asp
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\faq.asp.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/contact.asp
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\contact.asp.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/unioninvest/
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\unioninvest\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=38268502111
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\send.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/vendor/modernizr/modernizr.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\modernizr\modernizr.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/./img/logo.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\logo_yonetimi\server\Z0A9I8PC4RKLY05MGK5NHJOHO182logo-footer.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/HT9BKCJkaradag-sirket-kurmak.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\HT9BKCJkaradag-sirket-kurmak.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/7WXMG8Agayrimenkul.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\7WXMG8Agayrimenkul.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/9FPSK7BIL6FK88karadagda-mali-musavirlik.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\9FPSK7BIL6FK88karadagda-mali-musavirlik.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/OIC833Hkaradagda-insaat-yapmak.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\OIC833Hkaradagda-insaat-yapmak.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/M1S1C4ZP8NX581avrupa-birligi-vize.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\M1S1C4ZP8NX581avrupa-birligi-vize.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/7HSZ8Z66JO0D9Ykaradag-vatandaslik.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\7HSZ8Z66JO0D9Ykaradag-vatandaslik.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/KV744R6OC7LC4Smontenegroda-ne-is-yapilir.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\KV744R6OC7LC4Smontenegroda-ne-is-yapilir.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/Z11HJZBkaradagda-ne-is-yapilir.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\Z11HJZBkaradagda-ne-is-yapilir.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/BJI1SMUsirket-kuyrmak-bilinmeyenler.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\BJI1SMUsirket-kuyrmak-bilinmeyenler.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/IJH13YMPB3HWB2karadag-yatirim-2.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\IJH13YMPB3HWB2karadag-yatirim-2.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/3M093O1YNROY40karadag-yatirim-1.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\3M093O1YNROY40karadag-yatirim-1.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/6PSVG5Zmontenegro-emlak-fiyatları-katlayacak.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\6PSVG5Zmontenegro-emlak-fiyatları-katlayacak.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/2YOO6BDkaradag-avrupa-birliği-sureci.2.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\2YOO6BDkaradag-avrupa-birliği-sureci.2.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/9AE1V2P32IBXXIkaradag-gezilecek-yerler.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\9AE1V2P32IBXXIkaradag-gezilecek-yerler.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/MS2JZ79karadag-gayrimenkul-alimi-mantikli-mi.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\MS2JZ79karadag-gayrimenkul-alimi-mantikli-mi.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/admin/sayfa_islemleri/server/AW9TKUKneden-karadag.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\sayfa_islemleri\server\AW9TKUKneden-karadag.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/siteresim/editorfoto.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\editorfoto.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/MFC6JOOkaradag-hakkinda.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\MFC6JOOkaradag-hakkinda.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/admin/haber_yonetimi/server/5ZK5H69karadag-mali-musavir.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\admin\haber_yonetimi\server\5ZK5H69karadag-mali-musavir.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/reklambanner.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\reklambanner.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/whatsapp-icon.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\whatsapp-icon.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/vendor/jquery/jquery.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.appear/jquery.appear.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.appear\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.easing/jquery.easing.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.cookie/jquery.cookie.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.cookie\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/popper/umd/popper.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\popper\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/common/common.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\common\common.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.validation/jquery.validate.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.validation\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.easy-pie-chart\jquery.easypiechart.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.gmap/jquery.gmap.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.gmap\jquery.gmap.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/jquery.lazyload/jquery.lazyload.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\jquery.lazyload\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/isotope/jquery.isotope.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\isotope\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/owl.carousel/owl.carousel.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/magnific-popup/jquery.magnific-popup.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/vide/jquery.vide.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\vide\jquery.vide.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/vivus/vivus.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\vivus\vivus.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/instafeed/instafeed.min.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\instafeed\instafeed.min.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/js/theme.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\js\theme.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/js/theme.init.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\js\theme.init.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/js/examples/examples.instafeed.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\js\examples\examples.instafeed.js
+Content Type: application/javascript
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-brands-400.eot
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-brands-400.eot?
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/x-woff2
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-brands-400.woff
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-brands-400.woff
+Content Type: font/x-woff
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-brands-400.svg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-regular-400.eot
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-regular-400.eot?
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/x-woff2
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-regular-400.woff
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-regular-400.woff
+Content Type: font/x-woff
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-regular-400.svg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-solid-900.eot
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-solid-900.eot?
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/x-woff2
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-solid-900.woff
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-solid-900.woff
+Content Type: font/x-woff
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/fontawesome-free/webfonts/fa-solid-900.svg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\fontawesome-free\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\simple-line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\simple-line-icons\fonts\Simple-Line-Icons.woff2
+Content Type: font/x-woff2
+
+Uri: http://unioninvest.me/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\simple-line-icons\fonts\Simple-Line-Icons.ttf
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\simple-line-icons\fonts\Simple-Line-Icons.woff
+Content Type: font/x-woff
+
+Uri: http://unioninvest.me/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\simple-line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/vendor/owl.carousel/assets/owl.video.play.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/home/home-concept-dark.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\home\home-concept-dark.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/home/home-concept-item-dark.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\home\home-concept-item-dark.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/home/home-concept-icons-dark.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\home\home-concept-icons-dark.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/arrows-dark.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\arrows-dark.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/arrows.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\arrows.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/patterns/worn_dots.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\patterns\worn_dots.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/patterns/az_subtle.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\patterns\az_subtle.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/flags.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\flags.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/pencil-blue-line.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\pencil-blue-line.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/curved-border.svg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\curved-border.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/img/overlay-dot.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\overlay-dot.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/map.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\map.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/home/home-concept.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\home\home-concept.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/home/home-concept-item.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\home\home-concept-item.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/img/home/home-concept-icons.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\img\home\home-concept-icons.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/css/fonts/star.eot
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/css/fonts/star.eot?
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/css/fonts/star.woff
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\fonts\star.woff
+Content Type: font/x-woff
+
+Uri: http://unioninvest.me/css/fonts/star.ttf
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\fonts\star.ttf
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/css/fonts/star.svg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\css\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/vendor/rs-plugin/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://unioninvest.me/vendor/rs-plugin/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\fonts\revicons\revicons.woff
+Content Type: font/x-woff
+
+Uri: http://unioninvest.me/vendor/rs-plugin/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\fonts\revicons\revicons.ttf
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/rs-plugin/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://unioninvest.me/vendor/rs-plugin/css/openhand.cur
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/rs-plugin/css/closedhand.cur
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: http://unioninvest.me/vendor/rs-plugin/assets/gridtile.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/vendor/rs-plugin/assets/gridtile_white.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/vendor/rs-plugin/assets/gridtile_3x3.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/vendor/rs-plugin/assets/gridtile_3x3_white.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/vendor/rs-plugin/assets/coloredbg.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/vendor/rs-plugin/assets/loader.gif
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\vendor\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://unioninvest.me/siteresim/about-1.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\about-1.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/siteresim/about-2.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\about-2.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/siteresim/history-1.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\history-1.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/history-2.jpg
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\history-2.jpg
+Content Type: image/jpeg
+
+Uri: http://unioninvest.me/siteresim/history-3.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\history-3.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/logo-1.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\logo-1.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/logo-2.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\logo-2.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/logo-3.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\logo-3.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/logo-4.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\logo-4.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/logo-5.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\logo-5.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/siteresim/logo-6.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\logo-6.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/pages/288/karadagda-sirket-kurmak
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\288\karadagda-sirket-kurmak.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-5.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=1&urlpage=blog-kategori
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-6.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=4&urlpage=blog-kategori
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-7.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=5&urlpage=blog-kategori
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-8.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=6&urlpage=blog-kategori
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-9.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog.asp?kId=7&urlpage=blog-kategori
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog.asp-10.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/siteresim/userfoto.png
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\siteresim\userfoto.png
+Content Type: image/png
+
+Uri: http://unioninvest.me/pages/5/karadagda-emlak-danismanligi
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\5\karadagda-emlak-danismanligi.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/294/karadagda-mali-musavirlik-muhasebe
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\294\karadagda-mali-musavirlik-muhasebe.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/7/karadag-insaat-yapmak
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\7\karadag-insaat-yapmak.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/8/karadag-ab-ulkeleri-vize
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\8\karadag-ab-ulkeleri-vize.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/292/karadag-vatandaslik-kac-para
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\292\karadag-vatandaslik-kac-para.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2951.680777417587!2d18.837056416462374!3d42.28533717919209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134dd585698e6791:0x888f138d2acb5de4!2sUnioninvest+real+estate+%26+consulting!5e0!3m2!1str!2s!4v1564669795052!5m2!1str!2s
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\maps\embed.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/js/views/view.contact.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\js\views\view.contact.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\maps\api\js
+Content Type: text/javascript
+
+Uri: http://unioninvest.me/blog-posts/18/karadag-da-yapilacak-seyler
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\18\karadag-da-yapilacak-seyler.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/2/karadag-is-ilanlari-is-bulmak
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\2\karadag-is-ilanlari-is-bulmak.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/6/karadag-da-sirket-kurmak-hakkinda-gercekler
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\6\karadag-da-sirket-kurmak-hakkinda-gercekler.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/4/karadag-da-yatirim-olumsuz-yanlari
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\4\karadag-da-yatirim-olumsuz-yanlari.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/16/karadag-da-yatirim-olumlu-yanlari
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\16\karadag-da-yatirim-olumlu-yanlari.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/10/karadagda-emlak-fiyatlari
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\10\karadagda-emlak-fiyatlari.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/9/karadag-ab-sureci
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\9\karadag-ab-sureci.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/8/karadag-da-yapilacak-seyler
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\8\karadag-da-yapilacak-seyler.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/10/karadagda-gayrimenkul-yatirimi
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\10\karadagda-gayrimenkul-yatirimi.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/11/neden-karadag
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\11\neden-karadag.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/7/karadag-hakkinda
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\7\karadag-hakkinda.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/5/karadag-da-muhasebe
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\5\karadag-da-muhasebe.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/blog-posts/18/yorumlar
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\blog-posts\18\yorumlar.html
+Content Type: text/html
+
+Uri: http://unioninvest.me/pages/7/yorumlar
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\pages\7\yorumlar.html
+Content Type: text/html
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Users\cumhu\Desktop\Projeler\uniformco.com\unioninvest.me\js\300\addthis_widget.js
+Content Type: application/javascript
+
